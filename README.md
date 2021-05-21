@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gianmantuan&label=Profile%20views&color=0e75b6&style=flat" alt="gianmantuan" /> </p>
 
-- 🌱 I’m currently learning **NestJS**
+- 🌱 I’m currently learning **Swift**
 
 - 💬 Ask me about **React-Native and Node.js**
 
